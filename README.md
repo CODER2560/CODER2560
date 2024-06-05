@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **dp668800@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
