@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Deepakkumar Prasad</h1>
-<h3 align="center">A passionate Software developer from India, exploring Full Stack Development and DSA in C++ and Java. My expertise in Machine Learning and AI has been nothing short of gratefull .</h3>
+<h3 align="center">A passionate Software developer from India, exploring Full Stack Development and DSA in MERN and Java.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=coder2560&label=Profile%20views&color=0e75b6&style=flat" alt="coder2560" /> </p>
 
